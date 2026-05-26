@@ -102,10 +102,10 @@ jupyter notebook notebooks/
 
 | Name | Student ID |
 |------|-----------|
-| Raghav [Last Name] | [ID] |
-| [Teammate 2] | [ID] |
-| [Teammate 3] | [ID] |
-| [Teammate 4] | [ID] |
+| Raghav Bansal | D20123625 |
+| Lisha Mehta | A00046063 |
+| Ayan Abedin | D19125792 |
+| Kartik Kanchan | A00049515 |
 
 **Programme:** MSc Human-Centred AI — TU Dublin, Tallaght Campus  
 **Academic Year:** 2025–2026
