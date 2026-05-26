@@ -1,5 +1,4 @@
 # 🛡️ Explainable Hate Speech Detection Using Deep Learning
-![Banner](docs/github_banner.png)
 ![Banner](github_banner.png)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)
